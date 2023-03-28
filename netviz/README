@@ -1,0 +1,5 @@
+NetViz is a Windows application which displays netlists and NetA analysis results graphically. To
+install it, download the zip file, extract it, and run setup.exe.
+
+NetViz is free for non-commercial use; for more details, see the README at the top level of this
+repository.
